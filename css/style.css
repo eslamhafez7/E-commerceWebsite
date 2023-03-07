@@ -1085,6 +1085,7 @@ padding-bottom: 15px;
     }
     #newsletter {
         position: relative;
+        padding: 20px;
     }
     #newsletter .form {
         position: absolute;
